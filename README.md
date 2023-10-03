@@ -5,7 +5,7 @@ Este projeto teve como objetivo a construção de um site de portfólio demonstr
 ## 👀 Demo
 Para experimentar o projeto em ação, acesse a versão de demonstração [clicando aqui](https://github.com/WitorSs/site-ancora).
 
-<img src="Site-ancora.png" width="100%">
+![Site-ancoraa](https://github.com/WitorSs/site-ancora/assets/115504582/626ba2f8-2bbc-40dd-9417-330a317137b9)
 
 ## 🚀 Tecnologias
 
