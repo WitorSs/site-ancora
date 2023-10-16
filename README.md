@@ -1,6 +1,6 @@
 # Site de portfólio
 
-Este projeto teve como objetivo a construção de um site de portfólio demonstrativo. Além disso, o recurso Sass foi utilizado para modularização, refatoração do código e definição de variáveis globais relacionadas ao tema da aplicação.
+Este projeto teve como objetivo a construção de um site de portfólio demonstrativo, apresentando projetos de desenvolvimento de Software feitos por mim ao longo da minha jornada. Além disso, o recurso Sass foi utilizado para modularização, refatoração do código e definição de variáveis globais relacionadas ao tema da aplicação.
 
 ## 👀 Demo
 Para experimentar o projeto em ação, acesse a versão de demonstração [clicando aqui](https://github.com/WitorSs/site-ancora).
